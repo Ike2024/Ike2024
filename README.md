@@ -2,9 +2,9 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on SQL 
-- 📫 How to reach me +2347037888119
+- 📫 How to reach me +2347037888119 (whatsapp)
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 <!---
 Ike2024/Ike2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
